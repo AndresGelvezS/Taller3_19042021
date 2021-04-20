@@ -14,12 +14,3 @@ alert (parseInt(suma));
 
 
 
-
-// let cantidadnumeros= new Array(1).fill('');
-// let numero= new Array(parseInt(prompt("Ingresar cantidad de numeros"))).fill();
-// for (let i = 0; i < numero.length; i++) {
-// numero[i] = prompt (`digite el numero ${i+1}`);
-// 
-// }
-// 
-// 

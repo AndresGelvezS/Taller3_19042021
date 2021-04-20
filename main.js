@@ -4,9 +4,9 @@
  
 // 
 
-let numeros1=parseInt(prompt("Ingrese los numeros:"));
+let numero1=parseInt(prompt("Ingrese los numeros:"));
 let numero2=parseInt(prompt("Ingrese los numeros:"));
-let suma= (parseInt(numero1))+(parseInt(numero2));
+let suma= (parseInt(numero1+numero2));
 alert (parseInt(suma));
 
 
